@@ -2,8 +2,8 @@
 
 //************************************************************** */
 // Problem #1
-            console.log(hello);                                   
-            var hello = 'world';  
+            // console.log(hello);                                   
+            // var hello = 'world';  
 //**************************************************************** */
 //var hello;             *Hoisted var 
 //console.log(hello);    *Prints out undefined.
