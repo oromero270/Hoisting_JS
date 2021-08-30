@@ -112,16 +112,16 @@
 //console.log(genre);           *console prints 'disco'
 //*********************************************************************** */
 //problem #7
-            dojo = "san jose";
-            console.log(dojo);
-            learn();
-            function learn() {
-                dojo = "seattle";
-                console.log(dojo);
-                var dojo = "burbank";
-                console.log(dojo);
-            }
-            console.log(dojo);
+            // dojo = "san jose";
+            // console.log(dojo);
+            // learn();
+            // function learn() {
+            //     dojo = "seattle";
+            //     console.log(dojo);
+            //     var dojo = "burbank";
+            //     console.log(dojo);
+            // }
+            // console.log(dojo);
 //*********************************************************************** */
 // function learn() {               *Hoisted function
 //          var dojo                *hoisted var in function
