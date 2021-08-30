@@ -1,9 +1,9 @@
 // Hoist Assignment : Predict how the code will be read.
 
 //************************************************************** */
-//Problem #1
-            // console.log(hello);                                   
-            // var hello = 'world';  
+// Problem #1
+            console.log(hello);                                   
+            var hello = 'world';  
 //**************************************************************** */
 //var hello;             *Hoisted var 
 //console.log(hello);    *Prints out undefined.
